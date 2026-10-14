@@ -74,7 +74,7 @@ Note: TOP500: 100% Linux in ogni lista da nov 2017 a giu 2026. Android 69,17% de
 {.side}
 ### Intanto, nel mondo open source
 Software libero: puoi usarlo, studiarlo, modificarlo e ridistribuirlo
-(licenze come la GPL aggiungono: se lo ridistribuisci modificato, le tue modifiche restano libere)
+(licenze come la GPL aggiungono: se lo ridistribuisci modificato, le tue modifche restano libere)
 --
 Libero come in «libertà», non come in «birra gratis»
 ![](img/mondo/gplv3-free-as-in-freedom.png)
@@ -304,7 +304,7 @@ Infatti in KDE ci sono interi team che non programmano:
 Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosso
 Mi mandano un link a una diretta di Valve. Mi metto le cuffie mentre vado in università (sono in ritardo)
 --
-Annunciano lo SteamDeck
+Annunciano la SteamDeck
 ![This Week in KDE, 16 luglio 2021](img/mondo/nate-graham-blog-kde-powered-steam-deck-revealed-2021-07-16.png)
 Note: annunciato il 15 luglio 2021 (sito + trailer); non ho trovato conferma che fosse una diretta: verifica.
 
