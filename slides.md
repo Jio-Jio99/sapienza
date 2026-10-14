@@ -31,7 +31,7 @@ Storia PERSONALE di Niccolò Venerandi e consigli per chi volesse provarci
 ---
 
 ## COME PASSARE A LINUX
-- primo tentativo: ho seguito una guida per creare un virus su Windows e ho controllato se funzionava (funzionava)
+- primo tentativo: ho seguito una guida per creare un virus su Windows e ho controlato se funzionava (funzionava)
 ![](img/mondo/windows-xp-bsod.png)
 
 ---
@@ -93,7 +93,7 @@ Quando scegli un desktop scegli:
 ---
 
 ## COME INIZIARE A CONTRIBUIRE
-Mi annoiavo a lezione
+Mi annoiavo a lezoine
 --
 Soluzione: e se provassi a modificare i file di sistema per rendere tutto trasparente?
 ![Plasma 5.13 con trasparenze, 2018](img/mondo/plasma-5-13-kwin-blur-trasparenza-2018.png)
@@ -144,7 +144,7 @@ Note: era la D17352 su Calligra Sheets, 4–27 dic 2018. Review di aspotashev: �
 <!-- NUOVO -->
 {.oss}
 ### Intanto, nel mondo open source
-Come lavorano insieme migliaia di persone che non si sono mai visite:
+Come lavorano insieme migliaia di persone che non si sono mai viste:
 - invent.kde.org: il codice e le code review
 - bugs.kde.org: i bug
 - Matrix: le chat (dove si passa la vita)
@@ -188,12 +188,12 @@ Per una botta di culo, la conferenza annuale di KDE dopo la mia quarta liceo si 
 
 ---
 
-![Akademy 2019, Milano. Foto: Paul Brown, CC BY 4.0](img/citta/parigi.jpg)
+![Akademy 2019, Milano. Foto: Paul Brown, CC BY 4.0](img/citta/milano.jpg)
 
 
 ---
 
-Il primo talk della prima giornata: dopo votazione di tutta la comunità, annucio dei Goal scelti!
+Il primo talk della prima giornata: dopo votazione di tutta la comunità, annuncio dei Goal scelti!
 --
 Spoiler: HO VINTO!
 ![Akademy 2019: io (a destra) e Jonathan Riddell. Foto: dot.kde.org](img/storia/akademy2019-goals-niccolo-and-jonathan-riddell.jpg)
@@ -301,7 +301,7 @@ Infatti in KDE ci sono interi team che non programmano:
 ---
 
 ## COME CERCARE DI FARE COLPO
-Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosso
+Un giorno le chat di KDE dicono che sta per succedere qualcosa di grosos
 Mi mandano un link a una diretta di Valve. Mi metto le cuffie mentre vado in università (sono in ritardo)
 --
 Annunciano lo SteamDeck
@@ -466,7 +466,7 @@ Note: parli tu. Promemoria:
 ## COME INIZIARE (DAVVERO)
 Se volete programmare:
 - Season of KDE: un progetto con un mentor, candidature a dicembre, lavoro da gennaio a marzo
-- Google Summer of Code: uguale, ma PAGATO (candidature a marzo, lavoro d'estate)
+- Google Summer of Code: uguale, ma PAGATO (candidature a marzo, lavoro d'estatte)
 - I bug marcati «junior-jobs» su bugs.kde.org (oggi ce ne sono 256)
 ![](img/kde/kde-season-of-kde-2026-timeline.png)
 Note: date dell'edizione 2026. SoK 2026: candidature 15 dic – 14 gen, lavoro 23 gen – 20 mar. GSoC 2026: candidature 16–31 mar, lavoro 25 mag – fine ago; in Italia 1.200 / 2.400 / 4.800 $ a seconda della taglia. Le date 2027 non sono ancora uscite.
